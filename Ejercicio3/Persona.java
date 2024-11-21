@@ -14,7 +14,7 @@ public class Persona implements Nadador{
     
     
     //debo implementar el metodo abstracto o si no no me va compilar
-    
+    //
     @Override
     public void nadar() {
         System.out.println("La persona está nadando.");
