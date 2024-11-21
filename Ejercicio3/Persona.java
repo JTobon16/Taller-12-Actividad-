@@ -17,6 +17,6 @@ public class Persona implements Nadador{
     
     @Override
     public void nadar() {
-         System.out.println("La persona está nadando.");
+        System.out.println("La persona está nadando.");
     }
 }
